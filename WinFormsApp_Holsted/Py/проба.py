@@ -1,0 +1,1 @@
+saitResp=Zapros(strSait, 500) if not lnKol else Zapros(strSait, int(lnKol))
